@@ -1,4 +1,4 @@
-# Spigot
+# Spigot Algorithms
 Spigot Algorithms to calculate natural constants like e or pi
 
 * Zum Pi Day und der Geschichte von Pi:
