@@ -10,3 +10,7 @@ Spigot Algorithms to calculate natural constants like e or pi
 * Mayer Goldbergs Paper zur Berechnung von Quadratwurzeln mittels Tröpfelalgorithmen: https://arxiv.org/pdf/2312.15338
   
 * Konstantinos Gavalas Blog Post, in dem er Jeremy Gibbons Paper zusammenfasst und den Haskell Code nach Python übersetzt: https://www.gavalas.dev/blog/spigot-algorithms-for-pi-in-python/
+
+* Prof. Dr. Edmung Weitz (HAW HH) youtube-Video, indem er das Verfahren aus Gibbons Paper recht anschaulich auf Folien zeigt: https://www.youtube.com/watch?v=UKk0J9woems
+* Wie sich Pi ansonsten noch approximieren bzw. berechnen lässt, zeigt Matt Parker in seinen Videos zum Pi Day: https://www.youtube.com/results?search_query=Matt+Parker+Pi+Day
+  * grandios darunter der Bericht darüber, wie er innerhalb von 6 Tagen gemeinsam mit 400 Menschen die Zahl Pi händisch auf 139 Stellen genau berechnet: https://github.com/ThomasThannheiser/Spigot_Algorithms/edit/main/README.md
